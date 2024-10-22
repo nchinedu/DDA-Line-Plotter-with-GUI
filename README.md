@@ -11,13 +11,13 @@ Matplotlib Plot: Visualizes the computed line graphically.
 ## How to Use
 **1. Install Dependencies:**
 
-  Tkinter (usually included with Python)
-  Matplotlib (pip install matplotlib)
+    a. Tkinter (usually included with Python)
+    b. Matplotlib (pip install matplotlib)
 
 **2. Run the Application:**
 
-  Execute the dda_line_plotter.py script.
+    a. Execute the dda_line_plotter.py script.
 
-  Input the initial and final coordinates in the provided fields.
+    b. Input the initial and final coordinates in the provided fields.
 
-  Click "Plot Line" to visualize the DDA line.
+    c. Click "Plot Line" to visualize the DDA line.
